@@ -7,12 +7,15 @@
       "email": "ahmedalaahagag@gmail.com"
     }
   ],
+  "license": "MIT",
+  "type": "library",
   "autoload": {
     "psr-4": {
       "MedicalConversion\\": "src/"
     }
   },
+    "minimum-stability": "stable",
+    "require": {},
+    "version": "1.0"
 
-  "minimum-stability": "stable",
-  "require": {}
 }
