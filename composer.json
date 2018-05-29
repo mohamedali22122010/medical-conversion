@@ -1,10 +1,10 @@
 {
-  "name": "hagag/medical-conversion",
+  "name": "morshedy/medical-conversion",
   "description": "Package to convert medical values from unit to another unit",
   "authors": [
     {
       "name": "Medical Conversion",
-      "email": "ahmedalaahagag@gmail.com"
+      "email": "mohamedali22122010@gmail.com"
     }
   ],
   "license": "MIT",
