@@ -13,6 +13,6 @@
     "psr-4": {
       "Hagag\\MedicalConversion\\": "src/"
     }
-  },
+  }
 
 }
