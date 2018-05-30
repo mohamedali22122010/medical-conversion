@@ -11,11 +11,8 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "MedicalConversion\\": "src/"
+      "Hagag\\MedicalConversion\\": "src/"
     }
   },
-    "minimum-stability": "stable",
-    "require": {},
-    "version": "1.2"
 
 }
